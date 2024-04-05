@@ -6,12 +6,12 @@ With over 4 years of hands-on experience in full-stack web development, I'm dedi
 
 Here's a glimpse of my skill set:
 
-🔸 Frontend: React.js, Angular.js, Vue.js, Next.js, Nuxt.js, Gatsby.js, ReactNative with Redux
-🔸 Backend: Node.js, Express.js, Python, Django, GraphQL, REST API, gRPC
-🔸 Databases: SQL, NoSQL, MongoDB, PostgreSQL, Firebase DB, AWS DynamoDB, CloudFlare D3
-🔸 Markup & Styling: HTML5, CSS3, Bootstrap, LESS, SASS, Responsive Web Design, PSD/Figma to Responsive HTML
-🔸 APIs: Facebook, Twitter, Google, Stripe, Payment Gateways, Mailchimp, Stripe Connect, etc.
-🔸 Version Control & Project Management: GitHub, GitLab, BitBucket, Jira, Heroku, Asana, etc.
+🔸 Frontend: React.js, Angular.js, Vue.js, Next.js, Nuxt.js, Gatsby.js, ReactNative with Redux  
+🔸 Backend: Node.js, Express.js, Python, Django, GraphQL, REST API, gRPC  
+🔸 Databases: SQL, NoSQL, MongoDB, PostgreSQL, Firebase DB, AWS DynamoDB, CloudFlare D3  
+🔸 Markup & Styling: HTML5, CSS3, Bootstrap, LESS, SASS, Responsive Web Design, PSD/Figma to Responsive HTML  
+🔸 APIs: Facebook, Twitter, Google, Stripe, Payment Gateways, Mailchimp, Stripe Connect, etc.  
+🔸 Version Control & Project Management: GitHub, GitLab, BitBucket, Jira, Heroku, Asana, etc.  
 
 I'm passionate about staying up-to-date with emerging technologies and am always eager to expand my knowledge base.
 
