@@ -17,7 +17,7 @@ I'm passionate about staying up-to-date with emerging technologies and am always
 
 Thank you for taking the time to explore my profile. 🌟 Let's connect and create something awesome together!
 
-Warm regards,
+Warm regards,  
 Kaushik Godhani
 
 <!--
