@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Kaushik
+### Hi there 👋,
 
-I'm excited to have you here. 😊
+ I'm Kaushik, and excited to have you here. 😊
 
 With over 4 years of hands-on experience in full-stack web development, I'm dedicated to creating seamless and intuitive user experiences through innovative technologies. 💼
 
